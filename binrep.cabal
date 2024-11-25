@@ -70,6 +70,8 @@ library
       Raehik.Compat.FlatParse.Basic.Prim
       Raehik.Compat.FlatParse.Basic.Remaining
       Raehik.Compat.FlatParse.Basic.WithLength
+      Raehik.Compat.GHC98KeepAlive
+      Raehik.HexByteString
       Util.TypeNats
   other-modules:
       Paths_binrep
